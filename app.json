@@ -21,6 +21,9 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "android": {
+        "package": "com.buyercompany.buyer"
+    },
     "ios": {
       "supportsTablet": true
     }
